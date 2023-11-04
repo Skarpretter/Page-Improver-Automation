@@ -1,0 +1,112 @@
+﻿{
+    "Automatic Crop": {
+        "Border Margins": "1",
+        "LowerLeftMargin": "-10",
+        "LowerLeftSweep": "200",
+        "LowerRightMargin": "-10",
+        "LowerRightSweep": "200",
+        "Manual": "0",
+        "Manual Setting": "Percent",
+        "Millimeter Height Adjustment": "10",
+        "Millimeter Width Adjustment": "10",
+        "Percent Height Adjustment": "3.5",
+        "Percent Width Adjustment": "6.5",
+        "Pixel Height Adjustment": "110",
+        "Pixel Width Adjustment": "140",
+        "PPI": "400",
+        "Shoulder Sweep": "1",
+        "Table": "1",
+        "UpperLeftMargin": "-10",
+        "UpperLeftSweep": "200",
+        "UpperRightMargin": "-10",
+        "UpperRightSweep": "200"
+    },
+    "Drive Space": {
+        "Free": "50000"
+    },
+    "Hotkeys": {
+        "#1": "~",
+        "#1 Macro Delay": "1",
+        "#2": "~",
+        "#3": "~",
+        "#4": "~",
+        "#5": "~",
+        "Space": "0",
+        "Space Delay": "500",
+        "Space Process": "xnview.exe"
+    },
+    "Images": {
+        "Action Taken": "Continue",
+        "After Image Count": "3.0",
+        "Before Image Count": "5",
+        "Image Count Interval": "2.0",
+        "Time Limit": "1",
+        "Timer Column": "2x",
+        "Use Images": "1"
+    },
+    "Main Branch Delay": {
+        "#1": "2000",
+        "#2": "1000",
+        "#3": "500",
+        "#4": "3000",
+        "#5": "5.0"
+    },
+    "Mouse Coordinates": {
+        "Left Shoulder X": "0",
+        "Left Shoulder Y": "0",
+        "Local Navigator X": "0",
+        "Local Navigator Y": "0",
+        "Right Shoulder X": "0",
+        "Right Shoulder Y": "0"
+    },
+    "Page Improver": {
+        "Apply Effect": "1",
+        "Automatic Crop": "0",
+        "Effect": "Sharpening 2",
+        "Existing Files": "Delete",
+        "Initial Restart": "1",
+        "Operating Mode": "L & R on One Image",
+        "Output Folder": "digibok_",
+        "Path": "C:\\Program Files\\4Digitalbooks\\Page Improver 64\\PageImprover.exe",
+        "Process": "PageImprover.exe",
+        "Restart Page Improver": "1",
+        "Shoulder Search": "1",
+        "Title": "Fyr's image manipulation package"
+    },
+    "Restart Branch Delay": {
+        "#1": "3000",
+        "#2": "5000",
+        "#3": "1000",
+        "#4": "500",
+        "#5": "5.0"
+    },
+    "Send Mode": {
+        "Control Key Delay": "0",
+        "Control Press Duration": "0",
+        "ControlSend": "0",
+        "Event Key Delay": "20",
+        "Event Press Duration": "20",
+        "SendEvent": "0",
+        "SendInput": "1"
+    },
+    "Timer": {
+        "Minimum Execution Time": "2.5",
+        "Page Improver Crop Speed": "27",
+        "Use Timer": "0"
+    },
+    "User Interface": {
+        "Checkbox Property": "Percentage difference",
+        "Crop Warning": "0",
+        "Drag & Drop": "One profile",
+        "Folder Path": "D:\\Dl_Files\\",
+        "Folder Warning": "0",
+        "Image Extension": "mp4,raw,tif,tiff,png,jpg,jpeg",
+        "Image Folder": "pages_raw",
+        "Load On Startup": "1",
+        "Open With Program": "",
+        "Percentage Difference": "5",
+        "Profile Extention": "fyr",
+        "Profile Path": "D:\\PI_Profiler",
+        "Refresh List": "1"
+    }
+}
