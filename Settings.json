@@ -1,0 +1,122 @@
+﻿{
+    "Automatic Crop": {
+        "Border Margins": "1",
+        "LowerLeftMargin": "-10",
+        "LowerLeftSweep": "200",
+        "LowerRightMargin": "-10",
+        "LowerRightSweep": "200",
+        "Manual": "1",
+        "Manual Setting": "Millimeter",
+        "Millimeter Height Adjustment": "10",
+        "Millimeter Width Adjustment": "10",
+        "Percent Height Adjustment": "3.5",
+        "Percent Width Adjustment": "6.5",
+        "Pixel Height Adjustment": "110",
+        "Pixel Width Adjustment": "140",
+        "PPI": "400",
+        "Shoulder Sweep": "1",
+        "Table": "0",
+        "Table Path": "C:\\Users\\Espen\\Desktop\\AutoPi\\Data\\Table.json",
+        "UpperLeftMargin": "-10",
+        "UpperLeftSweep": "200",
+        "UpperRightMargin": "-10",
+        "UpperRightSweep": "200"
+    },
+    "Drive Space": {
+        "Free": "50000"
+    },
+    "Hotkeys": {
+        "#1": "~",
+        "#1 Macro Delay": "1",
+        "#2": "~",
+        "#3": "~",
+        "#4": "~",
+        "#5": "~",
+        "Space": "0",
+        "Space Delay": "500",
+        "Space Process": "xnview.exe"
+    },
+    "Imageview": {
+        "Grid Colour": "Black",
+        "Grid Thickness": "1.5",
+        "Interpolation": "HighQualityBicubic",
+        "Pixel Offset": "HighQuality",
+        "Rotation Increment": "0.1",
+        "Selection Colour": "Fuchsia",
+        "Selection Thickness": "1.5",
+        "Smoothing": "HighQuality"
+    },
+    "Main Branch Delay": {
+        "#1": "4000",
+        "#2": "2000",
+        "#3": "1000",
+        "#4": "500",
+        "#5": "3000",
+        "#6": "5.0"
+    },
+    "Mouse Coordinates": {
+        "Left Shoulder X": "0",
+        "Left Shoulder Y": "0",
+        "Local Navigator X": "0",
+        "Local Navigator Y": "0",
+        "Right Shoulder X": "0",
+        "Right Shoulder Y": "0"
+    },
+    "Page Improver": {
+        "Apply Effect": "1",
+        "Automatic Crop": "0",
+        "Effect": "Sharpening 2",
+        "Existing Files": "Delete",
+        "Initial Restart": "1",
+        "Operating Mode": "L & R on One Image",
+        "Output Folder": "digibok_",
+        "Path": "C:\\Program Files\\4Digitalbooks\\Page Improver 64\\PageImprover.exe",
+        "Process": "PageImprover.exe",
+        "Restart Page Improver": "1",
+        "Shoulder Search": "1",
+        "Title": "Fyr's image manipulation package"
+    },
+    "Progress": {
+        "Action Taken": "Continue",
+        "Delay (sec) - End": "3.0",
+        "Delay (sec) - Interval": "2.0",
+        "Delay (sec) - Start": "5",
+        "Minimum Execution Time": "2.5",
+        "Page Improver Crop Speed": "27",
+        "Time Limit": "1",
+        "Timer Column": "2x",
+        "Use Images": "1",
+        "Use Timer": "0"
+    },
+    "Restart Branch Delay": {
+        "#1": "5000",
+        "#2": "1000",
+        "#3": "500",
+        "#4": "5.0"
+    },
+    "Send Mode": {
+        "Control Key Delay": "0",
+        "Control Press Duration": "0",
+        "ControlSend": "0",
+        "Event Key Delay": "20",
+        "Event Press Duration": "20",
+        "SendEvent": "0",
+        "SendInput": "1"
+    },
+    "User Interface": {
+        "Autosize Columns": "1",
+        "Crop Warning": "0",
+        "Drag & Drop": "One profile",
+        "Folder Path": "D:\\Dl_Files\\Bok",
+        "Folder Warning": "0",
+        "Image Extension": "raw,tif,tiff,png,jpg,jpeg",
+        "Image Folder": "pages_raw",
+        "List Style": "Percentage difference",
+        "Load On Startup": "1",
+        "Open With Program": "",
+        "Percentage Difference": "5",
+        "Profile Extention": "fyr",
+        "Profile Path": "D:\\Dl_Files\\PI_Profiler",
+        "Refresh List": "1"
+    }
+}

@@ -1,0 +1,547 @@
+﻿{
+    "100x150mm": {
+        "Pages": "346",
+        "Resize Height": "3.3",
+        "Resize Width": "4.0"
+    },
+    "105x160mm": {
+        "Pages": "482",
+        "Resize Height": "8.1",
+        "Resize Width": "7.5"
+    },
+    "105x185mm": {
+        "Pages": "266",
+        "Resize Height": "4.5",
+        "Resize Width": "6.1"
+    },
+    "110x175mm": {
+        "Pages": "128",
+        "Resize Height": "3.6",
+        "Resize Width": "7.9"
+    },
+    "110x180mm": {
+        "Pages": "246",
+        "Resize Height": "5.4",
+        "Resize Width": "7.9"
+    },
+    "110x185mm": {
+        "Pages": "258",
+        "Resize Height": "3.5",
+        "Resize Width": "8.5"
+    },
+    "115x160mm": {
+        "Pages": "100",
+        "Resize Height": "3.6",
+        "Resize Width": "7.9"
+    },
+    "115x175mm": {
+        "Pages": "294",
+        "Resize Height": "5.5",
+        "Resize Width": "6.1"
+    },
+    "115x185mm": {
+        "Pages": "326",
+        "Resize Height": "2.5",
+        "Resize Width": "6.4"
+    },
+    "115x190mm": {
+        "Pages": "258",
+        "Resize Height": "4.0",
+        "Resize Width": "7.9"
+    },
+    "115x210mm": {
+        "Pages": "50",
+        "Resize Height": "6.3",
+        "Resize Width": "3.9"
+    },
+    "115x225mm": {
+        "Pages": "118",
+        "Resize Height": "5.0",
+        "Resize Width": "5.7"
+    },
+    "120x175mm": {
+        "Pages": "294",
+        "Resize Height": "5.5",
+        "Resize Width": "6.1"
+    },
+    "120x190mm": {
+        "Pages": "134",
+        "Resize Height": "6.1",
+        "Resize Width": "7.3"
+    },
+    "120x195mm": {
+        "Pages": "186",
+        "Resize Height": "3.4",
+        "Resize Width": "6.2"
+    },
+    "120x200mm": {
+        "Pages": "226",
+        "Resize Height": "4.0",
+        "Resize Width": "5.5"
+    },
+    "120x210mm": {
+        "Pages": "182",
+        "Resize Height": "5.2",
+        "Resize Width": "7.3"
+    },
+    "120x215mm": {
+        "Pages": "262",
+        "Resize Height": "7.1",
+        "Resize Width": "3.5"
+    },
+    "125x185mm": {
+        "Pages": "126",
+        "Resize Height": "6.6",
+        "Resize Width": "7.7"
+    },
+    "125x190mm": {
+        "Pages": "516",
+        "Resize Height": "5.2",
+        "Resize Width": "4.1"
+    },
+    "125x195mm": {
+        "Pages": "332",
+        "Resize Height": "2.9",
+        "Resize Width": "6.9"
+    },
+    "125x205mm": {
+        "Pages": "410",
+        "Resize Height": "3.6",
+        "Resize Width": "7.5"
+    },
+    "125x210mm": {
+        "Pages": "110",
+        "Resize Height": "5.2",
+        "Resize Width": "6.8"
+    },
+    "125x215mm": {
+        "Pages": "234",
+        "Resize Height": "5.6",
+        "Resize Width": "5.5"
+    },
+    "130x190mm": {
+        "Pages": "314",
+        "Resize Height": "3.9",
+        "Resize Width": "5.6"
+    },
+    "130x205mm": {
+        "Pages": "194",
+        "Resize Height": "3.2",
+        "Resize Width": "5.6"
+    },
+    "130x210mm": {
+        "Pages": "434",
+        "Resize Height": "3.8",
+        "Resize Width": "5.0"
+    },
+    "130x215mm": {
+        "Pages": "186",
+        "Resize Height": "6.0",
+        "Resize Width": "7.7"
+    },
+    "130x220mm": {
+        "Pages": "100",
+        "Resize Height": "5.6",
+        "Resize Width": "5.9"
+    },
+    "135x170mm": {
+        "Pages": "306",
+        "Resize Height": "3.8",
+        "Resize Width": "5.8"
+    },
+    "135x190mm": {
+        "Pages": "182",
+        "Resize Height": "5.8",
+        "Resize Width": "4.3"
+    },
+    "135x205mm": {
+        "Pages": "258",
+        "Resize Height": "2.8",
+        "Resize Width": "3.7"
+    },
+    "135x210mm": {
+        "Pages": "246",
+        "Resize Height": "5.5",
+        "Resize Width": "8.0"
+    },
+    "135x215mm": {
+        "Pages": "122",
+        "Resize Height": "4.5",
+        "Resize Width": "5.8"
+    },
+    "140x175mm": {
+        "Pages": "214",
+        "Resize Height": "5.9",
+        "Resize Width": "3.7"
+    },
+    "140x205mm": {
+        "Pages": "306",
+        "Resize Height": "3.4",
+        "Resize Width": "6.3"
+    },
+    "140x210mm": {
+        "Pages": "86",
+        "Resize Height": "4.8",
+        "Resize Width": "5.0"
+    },
+    "140x215mm": {
+        "Pages": "170",
+        "Resize Height": "5.4",
+        "Resize Width": "6.4"
+    },
+    "145x205mm": {
+        "Pages": "578",
+        "Resize Height": "3.2",
+        "Resize Width": "7.9"
+    },
+    "145x210mm": {
+        "Pages": "146",
+        "Resize Height": "2.5",
+        "Resize Width": "4.5"
+    },
+    "145x215mm": {
+        "Pages": "414",
+        "Resize Height": "2.5",
+        "Resize Width": "4.5"
+    },
+    "145x220mm": {
+        "Pages": "198",
+        "Resize Height": "5.4",
+        "Resize Width": "7.0"
+    },
+    "145x225mm": {
+        "Pages": "62",
+        "Resize Height": "2.9",
+        "Resize Width": "4.7"
+    },
+    "145x235mm": {
+        "Pages": "214",
+        "Resize Height": "6.3",
+        "Resize Width": "6.0"
+    },
+    "150x210mm": {
+        "Pages": "22",
+        "Resize Height": "2.8",
+        "Resize Width": "4.5"
+    },
+    "150x215mm": {
+        "Pages": "182",
+        "Resize Height": "3.3",
+        "Resize Width": "6.0"
+    },
+    "150x220mm": {
+        "Pages": "90",
+        "Resize Height": "6.4",
+        "Resize Width": "6.5"
+    },
+    "150x225mm": {
+        "Pages": "296",
+        "Resize Height": "3.1",
+        "Resize Width": "6.7"
+    },
+    "150x230mm": {
+        "Pages": "126",
+        "Resize Height": "3.4",
+        "Resize Width": "6.7"
+    },
+    "150x235mm": {
+        "Pages": "438",
+        "Resize Height": "5.2",
+        "Resize Width": "5.9"
+    },
+    "155x220mm": {
+        "Pages": "246",
+        "Resize Height": "3.4",
+        "Resize Width": "5.0"
+    },
+    "155x230mm": {
+        "Pages": "50",
+        "Resize Height": "3.0",
+        "Resize Width": "4.5"
+    },
+    "155x235mm": {
+        "Pages": "326",
+        "Resize Height": "4.2",
+        "Resize Width": "6.7"
+    },
+    "160x225mm": {
+        "Pages": "102",
+        "Resize Height": "4.7",
+        "Resize Width": "5.8"
+    },
+    "160x240mm": {
+        "Pages": "66",
+        "Resize Height": "3.6",
+        "Resize Width": "4.9"
+    },
+    "165x200mm": {
+        "Pages": "38",
+        "Resize Height": "3.0",
+        "Resize Width": "3.4"
+    },
+    "165x220mm": {
+        "Pages": "126",
+        "Resize Height": "5.2",
+        "Resize Width": "3.5"
+    },
+    "165x235mm": {
+        "Pages": "142",
+        "Resize Height": "3.0",
+        "Resize Width": "4.7"
+    },
+    "165x240mm": {
+        "Pages": "256",
+        "Resize Height": "3.3",
+        "Resize Width": "4.3"
+    },
+    "165x245mm": {
+        "Pages": "214",
+        "Resize Height": "3.7",
+        "Resize Width": "3.5"
+    },
+    "165x250mm": {
+        "Pages": "618",
+        "Resize Height": "4.6",
+        "Resize Width": "4.5"
+    },
+    "170x200mm": {
+        "Pages": "66",
+        "Resize Height": "2.5",
+        "Resize Width": "3.7"
+    },
+    "170x205mm": {
+        "Pages": "30",
+        "Resize Height": "6.0",
+        "Resize Width": "5.1"
+    },
+    "170x240mm": {
+        "Pages": "384",
+        "Resize Height": "4.3",
+        "Resize Width": "5.4"
+    },
+    "170x245mm": {
+        "Pages": "646",
+        "Resize Height": "4.1",
+        "Resize Width": "5.2"
+    },
+    "170x250mm": {
+        "Pages": "646",
+        "Resize Height": "4.1",
+        "Resize Width": "5.2"
+    },
+    "170x255mm": {
+        "Pages": "70",
+        "Resize Height": "3.0",
+        "Resize Width": "4.8"
+    },
+    "175x245mm": {
+        "Pages": "122",
+        "Resize Height": "3.3",
+        "Resize Width": "6.1"
+    },
+    "175x250mm": {
+        "Pages": "310",
+        "Resize Height": "4.9",
+        "Resize Width": "6.0"
+    },
+    "175x255mm": {
+        "Pages": "68",
+        "Resize Height": "2.5",
+        "Resize Width": "5.7"
+    },
+    "180x190mm": {
+        "Pages": "46",
+        "Resize Height": "5.8",
+        "Resize Width": "2.5"
+    },
+    "185x255mm": {
+        "Pages": "146",
+        "Resize Height": "2.8",
+        "Resize Width": "4.2"
+    },
+    "185x260mm": {
+        "Pages": "262",
+        "Resize Height": "4.7",
+        "Resize Width": "4.2"
+    },
+    "190x110mm": {
+        "Pages": "38",
+        "Resize Height": "6.6",
+        "Resize Width": "3.6"
+    },
+    "190x230mm": {
+        "Pages": "54",
+        "Resize Height": "3.2",
+        "Resize Width": "3.3"
+    },
+    "190x260mm": {
+        "Pages": "442",
+        "Resize Height": "2.4",
+        "Resize Width": "5.9"
+    },
+    "190x275mm": {
+        "Pages": "350",
+        "Resize Height": "2.4",
+        "Resize Width": "3.8"
+    },
+    "195x255mm": {
+        "Pages": "226",
+        "Resize Height": "5.2",
+        "Resize Width": "3.3"
+    },
+    "200x135mm": {
+        "Pages": "84",
+        "Resize Height": "5.2",
+        "Resize Width": "2.3"
+    },
+    "200x140mm": {
+        "Pages": "74",
+        "Resize Height": "8.8",
+        "Resize Width": "3.9"
+    },
+    "200x210mm": {
+        "Pages": "106",
+        "Resize Height": "5.4",
+        "Resize Width": "3.2"
+    },
+    "200x225mm": {
+        "Pages": "142",
+        "Resize Height": "3.1",
+        "Resize Width": "3.2"
+    },
+    "200x230mm": {
+        "Pages": "110",
+        "Resize Height": "2.8",
+        "Resize Width": "4.8"
+    },
+    "200x245mm": {
+        "Pages": "122",
+        "Resize Height": "4.0",
+        "Resize Width": "5.3"
+    },
+    "205x260mm": {
+        "Pages": "100",
+        "Resize Height": "3.1",
+        "Resize Width": "2.8"
+    },
+    "205x265mm": {
+        "Pages": "156",
+        "Resize Height": "3.4",
+        "Resize Width": "5.7"
+    },
+    "205x270mm": {
+        "Pages": "106",
+        "Resize Height": "3.9",
+        "Resize Width": "2.9"
+    },
+    "205x280mm": {
+        "Pages": "216",
+        "Resize Height": "2.0",
+        "Resize Width": "3.1"
+    },
+    "205x300mm": {
+        "Pages": "102",
+        "Resize Height": "2.8",
+        "Resize Width": "3.6"
+    },
+    "205x305mm": {
+        "Pages": "150",
+        "Resize Height": "2.5",
+        "Resize Width": "2.0"
+    },
+    "210x160mm": {
+        "Pages": "22",
+        "Resize Height": "4.1",
+        "Resize Width": "3.2"
+    },
+    "210x265mm": {
+        "Pages": "126",
+        "Resize Height": "2.4",
+        "Resize Width": "4.3"
+    },
+    "210x270mm": {
+        "Pages": "198",
+        "Resize Height": "4.0",
+        "Resize Width": "3.0"
+    },
+    "210x280mm": {
+        "Pages": "126",
+        "Resize Height": "3.6",
+        "Resize Width": "4.7"
+    },
+    "210x285mm": {
+        "Pages": "38",
+        "Resize Height": "2.4",
+        "Resize Width": "3.1"
+    },
+    "210x290mm": {
+        "Pages": "270",
+        "Resize Height": "3.9",
+        "Resize Width": "3.8"
+    },
+    "210x300mm": {
+        "Pages": "150",
+        "Resize Height": "2.6",
+        "Resize Width": "4.3"
+    },
+    "210x305mm": {
+        "Pages": "90",
+        "Resize Height": "4.5",
+        "Resize Width": "4.3"
+    },
+    "215x300mm": {
+        "Pages": "214",
+        "Resize Height": "3.0",
+        "Resize Width": "3.6"
+    },
+    "225x230mm": {
+        "Pages": "166",
+        "Resize Height": "4.2",
+        "Resize Width": "3.6"
+    },
+    "230x165mm": {
+        "Pages": "50",
+        "Resize Height": "4.1",
+        "Resize Width": "3.0"
+    },
+    "230x180mm": {
+        "Pages": "30",
+        "Resize Height": "6.4",
+        "Resize Width": "3.1"
+    },
+    "230x270mm": {
+        "Pages": "38",
+        "Resize Height": "4.2",
+        "Resize Width": "3.1"
+    },
+    "230x285mm": {
+        "Pages": "214",
+        "Resize Height": "3.6",
+        "Resize Width": "2.4"
+    },
+    "235x310mm": {
+        "Pages": "598",
+        "Resize Height": "3.0",
+        "Resize Width": "3.6"
+    },
+    "240x270mm": {
+        "Pages": "318",
+        "Resize Height": "5.1",
+        "Resize Width": "2.9"
+    },
+    "255x215mm": {
+        "Pages": "160",
+        "Resize Height": "6.4",
+        "Resize Width": "4.4"
+    },
+    "255x250mm": {
+        "Pages": "320",
+        "Resize Height": "3.3",
+        "Resize Width": "2.5"
+    },
+    "260x210mm": {
+        "Pages": "58",
+        "Resize Height": "6.8",
+        "Resize Width": "2.8"
+    }
+}
