@@ -9,7 +9,7 @@
 */
 ;----------------------------------------------------------------------------
 /*
-		At first, I could'nt even look at you 
+		At first, I couldn't even look at you 
 		But step by step i fixed you
 		One part at a time
 		I made you whole
@@ -72,6 +72,10 @@ if !FileExist(A_Scriptdir . "\Data\AutoPI.dll"){
 #Include Resources\GDI+\Gdip_All.ahk
 #Include Resources\Button\Gen 3 Buttons.ahk
 ;#Include Resources\Wia\wia.ahk
+Appname := "AutoPI"
+Createdby := "Espen Sakariassen"
+Version := "1.0.4.0 Beta"
+Date := "08/14 - 2022"
 If !pToken := Gdip_Startup(){
 		MsgBox, 262160, %Appname% - Gdiplus Error, Gdiplus failed to start. Please ensure you have Gdiplus on your system.
 		ExitApp
@@ -113,10 +117,6 @@ Global g_tabIndex := {}
 #ctrls := 5
 MC_Obj := Object()
 SB_1 := 35, SB_2 := 458, SB_3 := 137, SB_4 := 35
-Appname := "AutoPI"
-Createdby := "Espen Sakariassen"
-Version := "1.0.4.0 Beta"
-Date := "08/14 - 2022"
 ;----------------------------------------------------------------------------
 ;	GUI 1 2 3 Colour and Font.
 ;----------------------------------------------------------------------------
@@ -258,7 +258,7 @@ Menu, MenuTableView, Color, White
 ;----------------------------------------------------------------------------
 /*
 Logical: Only the first 4094 characters of text are significant for sorting purposes. Any sequences of digits in the text are treated as true numbers rather than mere characters.
-Integer: Column 4 is sorted by hidden column 6 and the limit is: -2147483648 to 2147483647 (32 bit integer).
+Integer: The limit is: -2147483648 to 2147483647 (32 bit integer).
 
 ListView has no forced styles and defaults are:
 0x10000 ; WS_TABSTOP
